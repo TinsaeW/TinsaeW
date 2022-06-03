@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/0*gJidYapRYKcC9Bz4.gif)
+![MasterHead]([https://i.imgur.com/UWbDP3y.gif](https://as1.ftcdn.net/v2/jpg/02/44/71/42/1000_F_244714241_ylEkYttsJhSFkQ3mrJ0hLLS9BgQvA39z.jpg))
 ---
 ___
 <h1 align="center">Hi 👋, I'm Tinsae</h1>
