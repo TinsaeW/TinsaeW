@@ -4,9 +4,9 @@ ___
 <h1 align="center">Hi 👋, I'm Tinsae</h1>
 <h3 align="center">ML Engineer</h3>
 
-- 🔭 I’m currently working on **Transformer models**
+- 🔭 I’m currently working on **NLP**
 
-- 🌱 I’m currently learning **Vision Transformers**
+- 🌱 I’m currently learning **Diffusion models**
 
 - 📫 How to reach me **tinsuw7@gmail.com**
 
